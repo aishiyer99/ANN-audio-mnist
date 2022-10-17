@@ -1,2 +1,2 @@
 # ANN-audio-mnist
-Deep learning project - building an artificial neural network 
+Building an artificial neural network that can look at Mel or MFCC spectrograms of audio files and classify them into 10 classes.  
